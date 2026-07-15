@@ -1,5 +1,10 @@
 # Discord Sentiment Pipeline — Live Demo Console
 
+## Live demo
+
+https://upwork-demo-w654-news-to-discord-se.vercel.app
+
+
 A single-page console that proves the full news-to-Discord sentiment pipeline
 end-to-end: **financial headline in → noise filter → AI sentiment read
 (long / short / neutral + reasoning) → color-coded Discord embed out** — with
